@@ -9,7 +9,7 @@
 
 ## ✨ Sobre mim
 
-Oiê! Eu sou a Nathalia Gonçalves, uma desenvolvedora iniciante que ama transformar ideias em interfaces bonitas e funcionais. Estou explorando o mundo do Front-end com um olhar criativo e uma dose de curiosidade sem fim! 💡
+Meu nome é Nathalia Gonçalves, sou uma desenvolvedora iniciante que ama transformar ideias em interfaces bonitas e funcionais. Estou explorando o mundo do Front-end com um olhar criativo e uma dose de curiosidade sem fim! 💡 Iniciei esse ano meus estudos em Análise e Desenvolvimento de Sistemas na PUC-PR.
 
 Atualmente focada em:
 - Criar sites com **HTML, CSS e JavaScript**
