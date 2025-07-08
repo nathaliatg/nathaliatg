@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/-Email-fd89ac?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 ---
 
 <h3>✨ Sobre mim</h3>
