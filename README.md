@@ -1,56 +1,77 @@
-<h1 align="center">Oi, eu sou a Nathalia! 💖</h1>
+<h2 align="center">Oi, eu sou a Nathalia! 💖</h1>
+
+<p align="center">👩‍💻 Desenvolvedora Front-end | 🌈 Apaixonada por Design | 🌱 Em constante evolução<br/>
+ <em>Criando com criatividade, carinho e alguns pelos de gato no teclado.</em></small></p>
 
 <p align="center">
-  👩‍💻 Desenvolvedora Front-end | 🌈 Apaixonada por Design | 🌱 Em constante evolução<br/>
-  Criando com criatividade, carinho e alguns pelos de gato no teclado.
+  <a href="https://www.linkedin.com/in/nathaliatg" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/nathliag" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-fc9ccc?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:nathaliatgoncalves@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-fd89ac?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
 ---
 
-## ✨ Sobre mim
+<h3>✨ Sobre mim</h3>
+  <img src="https://i.imgur.com/Zntd4Zc.gif" align="right" width="250"/>
+  <p align="left">
+   Meu nome é <strong>Nathalia Gonçalves</strong>, sou uma desenvolvedora em transição de carreira que ama transformar ideias em interfaces bonitas e funcionais. Tenho um olhar criativo e apaixonado por design, acessibilidade e experiências encantadoras na web.
+<p align="left">
+Atualmente:
+<p align="left">
+<li>Sou estagiária de Desenvolvimento Fullstack</li>
+<li>Estudo Análise e Desenvolvimento de Sistemas na PUC-PR</li>
+<li>Pratico com <strong>HTML, CSS, JS, React e Angular</strong></li>
+<li>Me aprofundo em <strong>UI/UX Design</strong>, responsividade e acessibilidade</li>
+<li>Certificada pelo GitHub Foundations</li>
+ 
+  </p>
+</div>
+<br/>
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
 
-Meu nome é Nathalia Gonçalves, sou uma desenvolvedora iniciante que ama transformar ideias em interfaces bonitas e funcionais. Estou explorando o mundo do Front-end com um olhar criativo e uma dose de curiosidade sem fim! 💡 Iniciei esse ano meus estudos em Análise e Desenvolvimento de Sistemas na PUC-PR.
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js" />
 
-Atualmente focada em:
-- Criar sites com **HTML, CSS e JavaScript**
-- Aprender **React**
-- Estudar **UI/UX Design** para deixar tudo mais bonito e intuitivo
-- Aprofundar meus conhecimentos em **acessibilidade** 💬
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" alt="Figma" />
+</p>
+<h3>💼 Projetos em destaque</h3>
 
----
+🌿 **[Menta - Planos Odontológicos](https://github.com/nathaliatg/menta)**  
+OnePage responsiva feita com Angular, integra uma API REST para exibir dados dinâmicos. 
 
-## 💼 Projetos em destaque
-
-🌸 **[Meu Portfólio](https://nathaliatg.github.io/)**  
-Interface customizada com carinho para apresentar quem sou e o que estou criando. 
+🎨 **[Booksite - Reservas por temporada](https://github.com/nathaliatg/testebooksantos)**  
+Aplicação fullstack voltada para o gerenciamento de reservas de imóveis de temporada.
 
 ✨ **[Host Site](https://github.com/nathaliatg/host-site)**  
 Desenvolvi essa página para um Host Site fictício, descrevendo os serviços disponíveis, planos e preços, página de formulário, etc.
+<br/>
 
-🎨 **[Formulário](https://github.com/nathaliatg/form-project)**  
-Projeto básico de formulário em HTML e customizado em CSS.
+<div align="center">
+  <img src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>
+<p align="center">
+  <a href="https://github.com/nathaliatg/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliatg&layout=compact&theme=swift" alt="Top Langs" />
+  </a>
+</p>
 
----
-
-## 💻 Tecnologias & Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=flat-square&logo=figma&logoColor=000)
-
----
-
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliatg)
-[![Instagram](https://img.shields.io/badge/-Instagram-fc9ccc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nathliag)
-[![Email](https://img.shields.io/badge/-Email-fd89ac?style=flat-square&logo=gmail&logoColor=white)](mailto:nathaliatgoncalves@gmail.com)
-
----
 
 <p align="center">
-✨ Obrigada por visitar meu perfil!  
-Vamos construir algo incrível juntas(os)? 💬  
+✨ Obrigada por visitar meu perfil!  <br/>
+<strong>Vamos construir algo incrível juntas(os)? 💬  </strong>
 </p>
