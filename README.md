@@ -54,14 +54,12 @@ Atualmente:
 <h3>💼 Projetos em destaque</h3>
 
 🌿 **[Menta - Planos Odontológicos](https://github.com/nathaliatg/menta)**  
+<em>Angular • TypeScript • HTML5 • CSS3 • Axios</em><br/>
 OnePage responsiva feita com Angular, integra uma API REST para exibir dados dinâmicos. 
 
 🎨 **[Booksite - Reservas por temporada](https://github.com/nathaliatg/testebooksantos)**  
+<em>Node.js • Express.js • SQLite3 • React • Vite • React Router DOM • CSS3</em><br/>
 Aplicação fullstack voltada para o gerenciamento de reservas de imóveis de temporada.
-
-✨ **[Host Site](https://github.com/nathaliatg/host-site)**  
-Desenvolvi essa página para um Host Site fictício, descrevendo os serviços disponíveis, planos e preços, página de formulário, etc.
-<br/>
 
 <div align="center">
   <img src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>
