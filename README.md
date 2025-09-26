@@ -18,12 +18,8 @@
 ---
 
 <h3>✨ Sobre mim</h3>
-  <img src="https://i.imgur.com/Zntd4Zc.gif" align="right" width="250"/>
-  <p align="left">
-   Meu nome é <strong>Nathalia Gonçalves</strong>, sou uma desenvolvedora em transição de carreira que ama transformar ideias em interfaces bonitas e funcionais. Tenho um olhar criativo e apaixonado por design, acessibilidade e experiências encantadoras na web.
-<p align="left">
-Atualmente:
-<p align="left">
+  Meu nome é <strong>Nathalia Gonçalves</strong>, sou uma desenvolvedora em transição de carreira que ama transformar ideias em interfaces bonitas e funcionais. Tenho um olhar criativo e apaixonado por design, acessibilidade e experiências encantadoras na web.<p><p></p>
+Atualmente:</p>
 <li>Sou estagiária de Desenvolvimento Fullstack</li>
 <li>Estudo Análise e Desenvolvimento de Sistemas na PUC-PR</li>
 <li>Pratico com <strong>HTML, CSS, JS, React e Angular</strong></li>
@@ -52,6 +48,10 @@ Atualmente:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" alt="Figma" />
 </p>
 <h3>💼 Projetos em destaque</h3>
+
+💖 **[Meu Portfólio!](https://nathaliatg.github.io/)** <br/>
+<em>HTML5 • CSS3 • JavaScript</em><br/>
+Crio com lógica, criatividade e usabilidade. Este portfólio é a materialização da minha jornada e da minha identidade: vibrante, funcional e cheio de personalidade.
 
 🌿 **[Menta - Planos Odontológicos](https://github.com/nathaliatg/menta)**  
 <em>Angular • TypeScript • HTML5 • CSS3 • Axios</em><br/>
