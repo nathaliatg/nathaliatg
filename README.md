@@ -53,9 +53,13 @@ Atualmente:</p>
 <em>HTML5 • CSS3 • JavaScript</em><br/>
 Crio com lógica, criatividade e usabilidade. Este portfólio é a materialização da minha jornada e da minha identidade: vibrante, funcional e cheio de personalidade.
 
-🌿 **[Menta - Planos Odontológicos](https://github.com/nathaliatg/menta)**  
-<em>Angular • TypeScript • HTML5 • CSS3 • Axios</em><br/>
-OnePage responsiva feita com Angular, integra uma API REST para exibir dados dinâmicos. 
+🐾 **[PetMatch: Encontre seu melhor amigo](https://nathaliatg.github.io/petmatch/)**  
+<em>HTML5 • CSS3 • JavaScript</em><br/>
+Projeto fictício / acadêmico feito para demonstrar domínio dos fundamentos de HTML, CSS e JavaScript puros, com identidade visual completa (logo, paleta de cores e tipografia).
+
+🎨 **[Artsy: Plataforma de workshops criativos](https://github.com/nathaliatg/artsy)**  
+<em>HTML5 • CSS3 • JavaScript • Bootstrap • PHP • PostgreSQL</em><br/> 
+Sistema completo utilizando HTML, CSS, JavaScript, PHP, PostgreSQL e Bootstrap. A aplicação conecta usuários a uma plataforma de workshops criativos, permitindo visualizar e gerenciar atividades apenas após autenticação.
 
 🎨 **[Booksite - Reservas por temporada](https://github.com/nathaliatg/testebooksantos)**  
 <em>Node.js • Express.js • SQLite3 • React • Vite • React Router DOM • CSS3</em><br/>
