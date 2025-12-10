@@ -61,18 +61,12 @@ Projeto fictício / acadêmico feito para demonstrar domínio dos fundamentos de
 <em>HTML5 • CSS3 • JavaScript • Bootstrap • PHP • PostgreSQL</em><br/> 
 Sistema completo utilizando HTML, CSS, JavaScript, PHP, PostgreSQL e Bootstrap. A aplicação conecta usuários a uma plataforma de workshops criativos, permitindo visualizar e gerenciar atividades apenas após autenticação.
 
-🎨 **[Booksite - Reservas por temporada](https://github.com/nathaliatg/testebooksantos)**  
+📋 **[Booksite - Reservas por temporada](https://github.com/nathaliatg/testebooksantos)**  
 <em>Node.js • Express.js • SQLite3 • React • Vite • React Router DOM • CSS3</em><br/>
 Aplicação fullstack voltada para o gerenciamento de reservas de imóveis de temporada.
 
 <div align="center">
   <img src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif" alt="Gif do gato" height="100"/>
-<p align="center">
-  <a href="https://github.com/nathaliatg/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliatg&layout=compact&theme=swift" alt="Top Langs" />
-  </a>
-</p>
-
 
 <p align="center">
 ✨ Obrigada por visitar meu perfil!  <br/>
